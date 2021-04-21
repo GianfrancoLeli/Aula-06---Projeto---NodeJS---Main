@@ -13,3 +13,5 @@ Métodos de solicitação HTTP usados:
 - https://insomnia.rest/
 - https://www.postman.com/downloads/
 
+(em Falta Tratamento de Erros)
+
